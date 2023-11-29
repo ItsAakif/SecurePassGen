@@ -1,0 +1,2 @@
+# SecurePassGen
+ SecurePassGen is a Java-based command-line password generator designed to create secure and customizable passwords. It offers a flexible solution for generating passwords with a mix of lowercase and uppercase letters, numbers, and special characters. One of its key features is the option to exclude ambiguous characters, enhancing the readability and usability of the generated passwords.
